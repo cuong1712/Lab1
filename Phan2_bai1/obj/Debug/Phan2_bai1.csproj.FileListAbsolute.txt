@@ -1,0 +1,7 @@
+C:\Users\hoaho\source\repos\Lab\Phan2_bai1\bin\Debug\Phan2_bai1.exe.config
+C:\Users\hoaho\source\repos\Lab\Phan2_bai1\bin\Debug\Phan2_bai1.exe
+C:\Users\hoaho\source\repos\Lab\Phan2_bai1\bin\Debug\Phan2_bai1.pdb
+C:\Users\hoaho\source\repos\Lab\Phan2_bai1\obj\Debug\Phan2_bai1.csproj.AssemblyReference.cache
+C:\Users\hoaho\source\repos\Lab\Phan2_bai1\obj\Debug\Phan2_bai1.csproj.CoreCompileInputs.cache
+C:\Users\hoaho\source\repos\Lab\Phan2_bai1\obj\Debug\Phan2_bai1.exe
+C:\Users\hoaho\source\repos\Lab\Phan2_bai1\obj\Debug\Phan2_bai1.pdb

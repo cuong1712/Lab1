@@ -1,0 +1,7 @@
+C:\Users\hoaho\source\repos\Lab\Phan3_bai6\bin\Debug\Phan3_bai6.exe.config
+C:\Users\hoaho\source\repos\Lab\Phan3_bai6\bin\Debug\Phan3_bai6.exe
+C:\Users\hoaho\source\repos\Lab\Phan3_bai6\bin\Debug\Phan3_bai6.pdb
+C:\Users\hoaho\source\repos\Lab\Phan3_bai6\obj\Debug\Phan3_bai6.csproj.AssemblyReference.cache
+C:\Users\hoaho\source\repos\Lab\Phan3_bai6\obj\Debug\Phan3_bai6.csproj.CoreCompileInputs.cache
+C:\Users\hoaho\source\repos\Lab\Phan3_bai6\obj\Debug\Phan3_bai6.exe
+C:\Users\hoaho\source\repos\Lab\Phan3_bai6\obj\Debug\Phan3_bai6.pdb
